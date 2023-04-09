@@ -1,0 +1,14 @@
+{
+  "header": "# 更新日志",
+  "types": [
+    { "type": "feat", "section": "Features | 新功能 🎉🎉🎉" },
+    { "type": "fix", "section": "Bug Fixes | Bug 修复 🐛🐛🐛" },
+    { "type": "refactor", "section": "Refactor | 代码重构 🔧🔧🔧" },
+    { "type": "docs", "section": "Docs | 文档 📚📚📚" },
+    { "type": "style", "section": "Style | 样式修改 🎨🎨🎨" },
+    { "type": "chore", "section": "Chores | 其他更新 🎫🎫🎫" },
+    { "type": "test", "section": "Tests", "hidden": true },
+    { "type": "build", "section": "Build System", "hidden": true },
+    { "type": "ci", "hidden": true }
+  ]
+}
